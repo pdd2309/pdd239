@@ -1,0 +1,274 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 70px;
+    width: 2000px;
+    margin-top: 450px;
+    background-color:orange;
+}
+nav li{
+    padding-top: 20px;
+    display: inline-block;
+}
+nav li>a{ 
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+   
+}
+nav li a:hover{
+    color: black;
+    background-color: #0099ff;
+}
+li#c1 a{
+    border: none;
+}
+.baner{
+    height: 150px;
+    width: 2400px;
+    background-color: white;
+}
+.baner img{
+    margin-left: 150px;
+    height: 500px;
+    width: 600px;
+}
+#slogan{
+    margin-top: -250px;
+    margin-left: 900px;
+    font-size: 100px;
+    font-family: arial , Helvetica, sans-serif;
+    font-weight: bold ;
+    color:black ;
+}
+.BIA{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.LoL{
+    margin-top: 100px;
+    margin-left: 150px;
+    border-top: 10px solid black ;
+}
+div#ten{
+    height: 30px;
+    width: 120px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 5px;
+    margin-top: -50px;
+    border-radius: 3px;
+    border-top-right-radius: 40px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.sanpham{
+    height: 400px;
+    width: 450px;
+    margin: 15px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 0px ;
+}
+div#anh img{
+    height:  300px;
+    width: 450px;
+}
+div#anh #ten, #gia{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+div#anh #ten{
+    color: yellow   ;
+}
+#font{
+  font-size: 50px;
+  color: orangered;
+  margin-top: -60px;
+}
+.Genshin{
+    margin-top: 100px;
+    margin-left: 150px;
+    border-top: 10px solid black ;
+}
+div#ten1{
+    height: 30px;
+    width: 120px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 5px;
+    margin-top: -50px;
+    border-radius: 3px;
+    border-top-right-radius: 40px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.sanpham1{
+    height: 400px;
+    width: 450px;
+    margin: 15px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 0px ;
+}
+div#anh1 img{
+    height:  300px;
+    width: 450px;
+}
+div#anh1 #ten1, #gia1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+div#anh1 #ten1{
+    color: yellow;
+}
+#font1{
+  font-size: 50px;
+  color: orangered;
+  margin-top: -60px;
+}
+
+.Lq{
+    margin-top: 100px;
+    margin-left: 150px;
+    border-top: 10px solid black ;
+}
+div#ten2{
+    height: 30px;
+    width: 120px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 5px;
+    margin-top: -50px;
+    border-radius: 3px;
+    border-top-right-radius: 40px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.sanpham2{
+    height: 400px;
+    width: 450px;
+    margin: 15px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px 0px ;
+}
+div#anh2 img{
+    height:  300px;
+    width: 450px;
+}
+div#anh2 #ten2, #gia2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+div#anh2 #ten2{
+    color: yellow;
+}
+#font2{
+  font-size: 50px;
+  color: orangered;
+  margin-top: -60px;
+}
+
+
+.footer{
+    width: 2000px;
+    height: 200px;
+    background-color: grey;
+}
+.footer>div{
+    display: inline-block;
+    padding-left: 160px;
+    padding-top: 10px;
+}
+#info{
+    float: left;
+}
+#info #name{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#info p{
+    padding: 5px;
+}
+#info img{
+    height: 70px;
+}
+#form{
+    margin-top: 6px;
+    float: left;
+    padding-left: 150px;
+}
+#form p{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#form input{
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+    padding-left: 15px;
+    border: none;
+    border-radius: 5px;
+}
+#form button{
+    height: 30px;
+    width: 80px;
+    margin-left: 238px;
+    background-color: white;
+    border-radius: 5px;
+}
+#tel{
+    padding-left: 150px;
+}
+#tel p{
+    padding-top: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tel p#temp{
+    font-size: 25px;
+}
+#form p{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#footer{
+    height: 50px;
+    background-color: rgb(19, 157, 236);
+    color:rgb(53, 53, 53);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 30px;
+}
